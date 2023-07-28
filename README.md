@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add domain checks to CI docs page (#8714)
