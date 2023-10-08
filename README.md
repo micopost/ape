@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add Neural Magic Docs integrations page (#7234)
