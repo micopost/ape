@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
