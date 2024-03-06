@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Update Docs language dropdown height (#6927)
