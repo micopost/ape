@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
