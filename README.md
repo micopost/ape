@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
