@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add dota8.yaml and O tests (#7394)
