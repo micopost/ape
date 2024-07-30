@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
