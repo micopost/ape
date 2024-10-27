@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
